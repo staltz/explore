@@ -5,6 +5,7 @@ items:
  - emberjs/ember.js
  - knockout/knockout
  - tastejs/todomvc
+ - cyclejs/cyclejs
  - spine/spine
  - vuejs/vue
  - Polymer/polymer
